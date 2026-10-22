@@ -1,1 +1,1 @@
-# wesite_template
+# website_template
